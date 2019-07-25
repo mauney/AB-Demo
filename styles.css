@@ -1,3 +1,10 @@
 body {
-  background-color: coral;
+  background-color: #57abf3;
+  font-size: 24;
+}
+
+.wraper {
+  display: grid;
+  align-items: center;
+  justify-items: center;
 }
