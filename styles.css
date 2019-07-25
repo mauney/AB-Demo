@@ -11,7 +11,7 @@ body {
   justify-items: center;
 }
 
-.btn.success {
+input[type=button] {
   color: #FFF;
   background-color: #ff2000;
   border-color: #ff2000;
