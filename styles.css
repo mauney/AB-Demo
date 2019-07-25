@@ -19,7 +19,7 @@ body {
   height: 50vh;
 }
 
-.form {
+input[type=button] {
   font-size: 2rem;
   color: #FFF;
   background-color: #dd4020;
