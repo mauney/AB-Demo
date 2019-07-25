@@ -13,7 +13,7 @@ body {
   display: grid;
   grid-template-rows: 1fr;
   grid-template-columns: 1fr;
-  align-items: center;
+  align-items: end;
   justify-items: center;
   width: 100vw;
   height: 50vh;
